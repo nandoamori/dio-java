@@ -1,0 +1,23 @@
+package Exercises.ExArrays;
+
+import java.util.Random;
+
+//faça um programa que leia 20 números inteiros aleatórios entre 0 e 100 e armazene-os em um vetor.
+//ao final mostre os números e seus sucessores.
+public class Ex3_Aleatorios {
+    public static void main(String[] args){
+        Random random = new Random();
+
+        int[] numerosAleatorios = new int[20];
+
+        for(int i=0; i<numerosAleatorios.length; i++) {
+            int numero  = random.nextInt(100);
+            numerosAleatorios[i] = numero;
+        }
+
+        for (int numeros : numerosAleatorios) {
+            System.out.println(numeros + "");
+        }
+    }
+    
+}
