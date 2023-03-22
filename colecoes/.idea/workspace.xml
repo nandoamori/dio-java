@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e10a3bbb-b239-4d48-96aa-36469d29866a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dominio/Manga.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dominio/Manga.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,9 +44,9 @@
       <recent name="test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NavigableSetTest01">
-    <configuration name="BinarySearchTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.BinarySearchTest02" />
+  <component name="RunManager" selected="Application.NavigableMapTest01">
+    <configuration name="MapTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.MapTest01" />
       <module name="colecoes" />
       <extension name="coverage">
         <pattern>
@@ -59,8 +58,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IteratorTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.IteratorTest01" />
+    <configuration name="Maptest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Maptest02" />
       <module name="colecoes" />
       <extension name="coverage">
         <pattern>
@@ -72,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListaArrayConversaoTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.ListaArrayConversaoTest01" />
+    <configuration name="NavigableMapTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.NavigableMapTest01" />
       <module name="colecoes" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NavigableMapTest01" />
+        <item itemvalue="Application.Maptest02" />
+        <item itemvalue="Application.MapTest01" />
         <item itemvalue="Application.NavigableSetTest01" />
         <item itemvalue="Application.SetTest01" />
-        <item itemvalue="Application.IteratorTest01" />
-        <item itemvalue="Application.ListaArrayConversaoTest01" />
-        <item itemvalue="Application.BinarySearchTest02" />
       </list>
     </recent_temporary>
   </component>
