@@ -44,7 +44,7 @@
       <recent name="test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NavigableMapTest01">
+  <component name="RunManager" selected="Application.QueueTest01">
     <configuration name="MapTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.MapTest01" />
       <module name="colecoes" />
@@ -97,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.SetTest01" />
+    <configuration name="QueueTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.QueueTest01" />
       <module name="colecoes" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QueueTest01" />
         <item itemvalue="Application.NavigableMapTest01" />
         <item itemvalue="Application.Maptest02" />
         <item itemvalue="Application.MapTest01" />
         <item itemvalue="Application.NavigableSetTest01" />
-        <item itemvalue="Application.SetTest01" />
       </list>
     </recent_temporary>
   </component>
