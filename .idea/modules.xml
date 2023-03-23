@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arvores/Arvores.iml" filepath="$PROJECT_DIR$/Arvores/Arvores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstruturaDeDados/EstruturaDeDados.iml" filepath="$PROJECT_DIR$/EstruturaDeDados/EstruturaDeDados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Filas/Filas.iml" filepath="$PROJECT_DIR$/Filas/Filas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/Generics.iml" filepath="$PROJECT_DIR$/Generics/Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA.iml" filepath="$PROJECT_DIR$/.idea/JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas Circulares/Listas Circulares.iml" filepath="$PROJECT_DIR$/Listas Circulares/Listas Circulares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListasDuplamenteEncadeadas/ListasDuplamenteEncadeadas.iml" filepath="$PROJECT_DIR$/ListasDuplamenteEncadeadas/ListasDuplamenteEncadeadas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListasEncadeadas/ListasEncadeadas.iml" filepath="$PROJECT_DIR$/ListasEncadeadas/ListasEncadeadas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arvoreHeranca/arvoreHeranca.iml" filepath="$PROJECT_DIR$/arvoreHeranca/arvoreHeranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/carRentalInterface/carRentalInterface.iml" filepath="$PROJECT_DIR$/carRentalInterface/carRentalInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chess-system/chess-system.iml" filepath="$PROJECT_DIR$/chess-system/chess-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classesInternas/classesInternas.iml" filepath="$PROJECT_DIR$/classesInternas/classesInternas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/colecoes/colecoes.iml" filepath="$PROJECT_DIR$/colecoes/colecoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/emojiCombat/emojiCombat.iml" filepath="$PROJECT_DIR$/emojiCombat/emojiCombat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enumExercicio/enumExercicio.iml" filepath="$PROJECT_DIR$/enumExercicio/enumExercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enumTheory/enumTheory.iml" filepath="$PROJECT_DIR$/enumTheory/enumTheory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/equalsHashCode/equalsHashCode.iml" filepath="$PROJECT_DIR$/equalsHashCode/equalsHashCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exceptionsJava/exceptionsJava.iml" filepath="$PROJECT_DIR$/exceptionsJava/exceptionsJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercFixaClassesMetAbstratos/exercFixaClassesMetAbstratos.iml" filepath="$PROJECT_DIR$/exercFixaClassesMetAbstratos/exercFixaClassesMetAbstratos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercPolimorfismo/exercPolimorfismo.iml" filepath="$PROJECT_DIR$/exercPolimorfismo/exercPolimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicioFinalLoiane/exercicioFinalLoiane.iml" filepath="$PROJECT_DIR$/exercicioFinalLoiane/exercicioFinalLoiane.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicioInterface/exercicioInterface.iml" filepath="$PROJECT_DIR$/exercicioInterface/exercicioInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicioPoo/exercicioPoo.iml" filepath="$PROJECT_DIR$/exercicioPoo/exercicioPoo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicioSet/exercicioSet.iml" filepath="$PROJECT_DIR$/exercicioSet/exercicioSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicioStreamAPI/exercicioStreamAPI.iml" filepath="$PROJECT_DIR$/exercicioStreamAPI/exercicioStreamAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-tv/exercicios-controle-fluxo/exercicios-controle-fluxo.iml" filepath="$PROJECT_DIR$/smart-tv/exercicios-controle-fluxo/exercicios-controle-fluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forEach/forEach.iml" filepath="$PROJECT_DIR$/forEach/forEach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics01/generics01.iml" filepath="$PROJECT_DIR$/generics01/generics01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heranca/heranca.iml" filepath="$PROJECT_DIR$/heranca/heranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/herancaLoiane/herancaLoiane.iml" filepath="$PROJECT_DIR$/herancaLoiane/herancaLoiane.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaceLoiane/interfaceLoiane.iml" filepath="$PROJECT_DIR$/interfaceLoiane/interfaceLoiane.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaUdemy/javaUdemy.iml" filepath="$PROJECT_DIR$/javaUdemy/javaUdemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/map/map.iml" filepath="$PROJECT_DIR$/map/map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matrizes/matrizes.iml" filepath="$PROJECT_DIR$/matrizes/matrizes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pilhas/pilhas.iml" filepath="$PROJECT_DIR$/pilhas/pilhas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/polimorfismo/polimorfismo.iml" filepath="$PROJECT_DIR$/polimorfismo/polimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/polimorfismoExercicio/polimorfismoExercicio.iml" filepath="$PROJECT_DIR$/polimorfismoExercicio/polimorfismoExercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pooLoiane/pooLoiane.iml" filepath="$PROJECT_DIR$/pooLoiane/pooLoiane.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pooProjExemplo/pooProjExemplo.iml" filepath="$PROJECT_DIR$/pooProjExemplo/pooProjExemplo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo_encapsula/poo_encapsula.iml" filepath="$PROJECT_DIR$/poo_encapsula/poo_encapsula.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo_exemplo/poo_exemplo.iml" filepath="$PROJECT_DIR$/poo_exemplo/poo_exemplo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/primeiro-java/primeiro-java.iml" filepath="$PROJECT_DIR$/primeiro-java/primeiro-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/relacionamento/relacionamento.iml" filepath="$PROJECT_DIR$/relacionamento/relacionamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-tv/smart-tv.iml" filepath="$PROJECT_DIR$/smart-tv/smart-tv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" filepath="$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trabalhandoComArquivos/trabalhandoComArquivos.iml" filepath="$PROJECT_DIR$/trabalhandoComArquivos/trabalhandoComArquivos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trabalhandoComHoras/trabalhandoComHoras.iml" filepath="$PROJECT_DIR$/trabalhandoComHoras/trabalhandoComHoras.iml" />
+    </modules>
+  </component>
+</project>
