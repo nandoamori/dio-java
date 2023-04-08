@@ -2,7 +2,7 @@ package test;
 
 import dominio.MinhaThreadRunnable;
 
-public class Threadtest02 {
+public class ThreadTest {
     public static void main(String[] args) {
 
         MinhaThreadRunnable thread1 = new MinhaThreadRunnable("#1", 300);
@@ -17,14 +17,10 @@ public class Threadtest02 {
         t2.start();
         t3.start();
 
-        try {
-            t1.join(); //indica que queremos esperar a execução finalizar para iniciar próxima tarefa
-            t2.join();
-            t3.join();
-        }catch (InterruptedException e){
-            e.printStackTrace();
-        }
+       // t1.setPriority(5);
 
-        System.out.println("Programa finalizado.");
+       t1.setPriority(Thread.MAX_PRIORITY);
+       t1.setPriority(Thread.NORM_PRIORITY);
+       t1.setPriority(Thread.MIN_PRIORITY);
     }
 }

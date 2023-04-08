@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tthreads.iml" filepath="$PROJECT_DIR$/tthreads.iml" />
+    </modules>
+  </component>
+</project>
