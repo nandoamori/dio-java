@@ -30,26 +30,29 @@ public class Person {
         private String username;
         private String email;
 
-        public PersonBuilder() {
+        private PersonBuilder() {
         }
 
+        public static PersonBuilder builder() {
+            return new PersonBuilder();
+        }
 
-        public PersonBuilder withFirstName(String firstName) {
+        public PersonBuilder firstName(String firstName) {
             this.firstName = firstName;
             return this;
         }
 
-        public PersonBuilder withLastName(String lastName) {
+        public PersonBuilder lastName(String lastName) {
             this.lastName = lastName;
             return this;
         }
 
-        public PersonBuilder withUsername(String username) {
+        public PersonBuilder username(String username) {
             this.username = username;
             return this;
         }
 
-        public PersonBuilder withEmail(String email) {
+        public PersonBuilder email(String email) {
             this.email = email;
             return this;
         }
@@ -57,5 +60,10 @@ public class Person {
         public Person build() {
             return new Person(firstName, lastName, username, email);
         }
+
+    }
+
+    public String getFirstName() {
+        return firstName;
     }
 }
