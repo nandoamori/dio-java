@@ -7,7 +7,7 @@ import java.util.Objects;
 @Value
 @Builder
 public class Producer {
-    Integer id;
-    String name;
+    private final Integer id;
+    private final String name;
 
 }
