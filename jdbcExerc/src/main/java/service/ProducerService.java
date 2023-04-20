@@ -27,7 +27,20 @@ public class ProducerService {
         return ProducerRepository.findByName(name);
     }
 
+    public static void showProducerMetaData(){
+        ProducerRepository.showProducerMetadata();
+    }
+    public static void showDriverMetaData(){
+        ProducerRepository.showDriverMetadata();
+    }
 
+    public static void showTypeScrollWorking() {
+        ProducerRepository.showTypeScrollWorking();
+    }
+
+    public static List<Producer> findByNameAndUpdateToUpperCase(String name) {
+        return ProducerRepository.findByNameAndUpdateToUpperCase(name);
+    }
     private static void requireValidId(Integer id){
         if (id == null && id <= 0) {
             throw new IllegalArgumentException("Invalid value for id");
